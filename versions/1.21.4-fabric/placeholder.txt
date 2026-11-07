@@ -1,0 +1,1 @@
+placeholder: GitHub's web uploader skips dotfiles, Gradle needs this directory to exist.
